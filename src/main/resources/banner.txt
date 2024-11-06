@@ -1,5 +1,1 @@
- OOOOO  DDDDD   IIIII  N   N  EEEEE     AAAAA  RRRRR  GGGGG  EEEEE
- O   O  D    D    I    NN  N  E         A   A  R   R  G      E
- O   O  D    D    I    N N N  EEEE      AAAAA  RRRRR  G  GG  EEEE
- O   O  D    D    I    N  NN  E         A   A  R  R   G   G  E
- OOOOO  DDDDD   IIIII  N   N  EEEEE     A   A  R   R  GGGGG  EEEEE
+
